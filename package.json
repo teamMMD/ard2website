@@ -1,0 +1,24 @@
+{
+  "name": "ard2website",
+  "version": "1.0.0",
+  "description": "website for ARD2.0 game",
+  "main": "webpack.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/teamMMD/ard2website.git"
+  },
+  "keywords": [
+    "react",
+    "ard",
+    "website"
+  ],
+  "author": "itsOrD",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/teamMMD/ard2website/issues"
+  },
+  "homepage": "https://github.com/teamMMD/ard2website#readme"
+}
